@@ -1,0 +1,14 @@
+Editor Option: CustomEditor
+Custom Editor Path: C:\Users\z00519je\Desktop\Microsoft VS Code\_\Code.exe
+Default Branch Option: main
+Path Option: Cmd
+SSH Option: OpenSSH
+Tortoise Option: false
+CURL Option: OpenSSL
+CRLF Option: CRLFAlways
+Bash Terminal Option: MinTTY
+Git Pull Behavior Option: Merge
+Use Credential Manager: Enabled
+Performance Tweaks FSCache: Enabled
+Enable Symlinks: Disabled
+Enable FSMonitor: Disabled
